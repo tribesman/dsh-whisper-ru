@@ -1,0 +1,6 @@
+# Adds a local Whisper recognizer to the speech-to-text registry used by the
+# voice input bundle. `dataRoot` defaults to `$DSH_HOME/speech-to-text/whisper`
+# when omitted; the row is inserted once and keeps its saved config.
+- insert:
+    - id: speech-to-text-whisper
+      name: dsh-whisper-ru

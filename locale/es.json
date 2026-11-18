@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Reconocimiento de voz Whisper local",
+    "description": "Añade un reconocedor Whisper local para que la entrada de voz entienda ruso y otros nueve idiomas. En los detalles del complemento de voz elija Servicio de reconocimiento → Whisper y Idioma de reconocimiento → Русский. El audio no sale de este equipo; el modelo se descarga una vez (unos 376 MB) y se verifica con SHA-256."
+  }
+}

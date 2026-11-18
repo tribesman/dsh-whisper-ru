@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Lokale Whisper-Spracherkennung",
+    "description": "Fügt einen lokalen Whisper-Erkenner hinzu, damit die Spracheingabe Russisch und neun weitere Sprachen versteht. In den Details des Sprach-Plugins Erkennungsdienst → Whisper und Erkennungssprache → Русский wählen. Audio bleibt auf diesem Rechner; das Modell wird einmal geladen (etwa 376 MB) und per SHA-256 geprüft."
+  }
+}

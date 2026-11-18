@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Reconnaissance vocale Whisper locale",
+    "description": "Ajoute un moteur Whisper local pour que la saisie vocale comprenne le russe et neuf autres langues. Dans les détails du plugin vocal, choisissez Service de reconnaissance → Whisper puis Langue de reconnaissance → Русский. L'audio reste sur cette machine ; le modèle est téléchargé une fois (environ 376 Mo) et vérifié par SHA-256."
+  }
+}

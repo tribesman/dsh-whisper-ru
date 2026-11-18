@@ -1,0 +1,13 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="14.7" y="6.1" width="6.6" height="12.4" rx="3.3" fill="url(#whisper_mic)"/>
+  <path d="M11.5 15.5v1.2a6.5 6.5 0 0 0 13 0v-1.2" stroke="url(#whisper_mic)" stroke-width="2.1" stroke-linecap="round"/>
+  <path d="M18 23.4v3.3" stroke="url(#whisper_mic)" stroke-width="2.1" stroke-linecap="round"/>
+  <path d="M14.8 27.1h6.4" stroke="url(#whisper_mic)" stroke-width="2.1" stroke-linecap="round"/>
+  <path d="M25 10.3a8 8 0 0 1 0 8.2" stroke="#8E7CF0" stroke-width="1.9" stroke-linecap="round" opacity="0.85"/>
+  <defs>
+    <linearGradient id="whisper_mic" x1="12" y1="7" x2="26" y2="27" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A18BFA"/>
+      <stop offset="1" stop-color="#5B4BC4"/>
+    </linearGradient>
+  </defs>
+</svg>

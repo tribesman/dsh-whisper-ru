@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Reconhecimento de voz Whisper local",
+    "description": "Adiciona um reconhecedor Whisper local para que a entrada de voz entenda russo e mais nove idiomas. Nos detalhes do plugin de voz escolha Serviço de reconhecimento → Whisper e Idioma de reconhecimento → Русский. O áudio não sai deste computador; o modelo é baixado uma vez (cerca de 376 MB) e verificado com SHA-256."
+  }
+}

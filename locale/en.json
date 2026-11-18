@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Local Whisper voice recognition",
+    "description": "Adds a local Whisper recognizer so voice input understands Russian and nine other languages. In the voice plugin details choose Recognition service → Whisper, then Recognition language → Русский. Audio stays on this machine; the model downloads once (about 376 MB) and is verified by SHA-256."
+  }
+}
